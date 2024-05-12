@@ -1,2 +1,2 @@
 # prnote
-recore some pull request note
+record some pull request note
